@@ -19,7 +19,7 @@ const Popup = ({ details, onClose }) => {
             <ul>
               {details.missions.map((mission) => (
                 <li key={mission.name}>
-                <span className="deatilshead">Name:  </span> {mission.name}, Flight: {mission.flight}
+                  <span className="deatilshead">Name:  </span> {mission.name}, Flight: {mission.flight}
                 </li>
               ))}
             </ul>
@@ -165,14 +165,18 @@ const Home = () => {
         </form>
       </div>
       <div className="data">
-        {currentItems.map((result) => (
-          <div key={result.capsule_serial} className='item'>
-            <p><span className='deatilshead'>Capsule ID:</span> {result.capsule_id}</p>
-            <p><span className='deatilshead'>Type:</span> {result.type}</p>
-            <p><span className='deatilshead'>Details:</span> {result.details}</p>
-            <button className='button' onClick={() => handleViewDetails(result)}>View Details</button>
-          </div>
-        ))}
+        {currentItems.length === 0 ? (
+          <p>Sorry, there are no items.</p>
+        ) : (
+          currentItems.map((result) => (
+            <div key={result.capsule_serial} className='item'>
+              <p><span className='deatilshead'>Capsule ID:</span> {result.capsule_id}</p>
+              <p><span className='deatilshead'>Type:</span> {result.type}</p>
+              <p><span className='deatilshead'>Details:</span> {result.details}</p>
+              <button className='button' onClick={() => handleViewDetails(result)}>View Details</button>
+            </div>
+          ))
+        )}
       </div>
       <div className="pagination">
         {Array.from({ length: totalPages }, (_, index) => (
