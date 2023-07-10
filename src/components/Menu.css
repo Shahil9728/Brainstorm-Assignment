@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+
+.container-fluid
+{
+    position: sticky !important;
+    background-color: black;
+    backdrop-filter: blur(8px) !important;
+}
+
+.navbar a:hover {
+    color: rgb(0, 187, 255) !important;
+}
+
+.menu_active {
+    font-weight: 600;
+    border-bottom: 1px solid rgb(0, 187, 255);
+}
+
+.navbar-brand
+{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-size: 2rem !important;
+}
+
+.navbar-nav
+{
+    gap: 3rem !important;
+}
