@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+<!-- Improved compatibility of back to top link: See: https://github.com/Shahil9728/Brainstorm-Assignment/ -->
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Shahil9728/Brainstorm-Assignment">
+    <img src="src/assets/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-In the project directory, you can run:
+  <h3 align="center"><a href="https://spacex9.netlify.app/" target="_blank">SpaceX</a></h3>
+  <p align="center">
+    <br />
+    <br />
+    <a href="https://github.com/Shahil9728/Brainstorm-Assignment/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Shahil9728/Brainstorm-Assignment/issues">Request Feature</a>
+  </p>
+</div>
 
-### `npm start`
+### TutoTube
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Project Link: [https://spacex9.netlify.app/](https://spacex9.netlify.app/)
+Must visit it for better view !🥰 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Introduction
 
-### `npm test`
+Welcome to SpaceX! Our website is a stunning platform that features an impressive collection of rockets from various space agencies and private companies worldwide. Created using React and Material UI, our user-friendly interface allows you to explore the latest and historic rockets in exquisite detail. We source our data through APIs, ensuring accurate and up-to-date information. From Falcon 9 to Saturn V, embark on an educational journey, exploring the technology, specifications, and missions behind each rocket. Whether you're a space enthusiast or a curious learner, Rocket Showcase offers an immersive experience that will ignite your passion for space exploration.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<!-- IMAGES -->
+### WEBSITe SCREENSHOTS
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Alt image](src/assets/ss1.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Alt image](src/assets/ss2.png)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Built With
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This section lists about the languages used in this project .
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* ![REACT JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* ![CSS](https://img.shields.io/badge/css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- CONTACT -->
+## Contact
 
-### Code Splitting
+Your Name - [@Shahil9728](https://twitter.com/ShahilV27515989) - shahilverma91383@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Project Link: [https://spacex9.netlify.app/](https://spacex9.netlify.app/)
 
-### Analyzing the Bundle Size
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
